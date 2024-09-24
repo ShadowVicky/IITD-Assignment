@@ -8,6 +8,7 @@ This is a standalone notebook of the paper "DINO: DETR with Improved DeNoising A
 ## Checkpoints available here:
 We have put our model checkpoints here [model zoo in Google Drive][model zoo in 百度网盘]（提取码"DINO"), where checkpoint{x}_{y}scale.pth denotes the checkpoint of y-scale model trained for x epochs.
 
+'''
 # Bibtex
 @misc{zhang2022dino,
       title={DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection}, 
@@ -34,3 +35,4 @@ We have put our model checkpoints here [model zoo in Google Drive][model zoo in 
       year={2022},
       url={https://openreview.net/forum?id=oMI9PjOb9Jl}
 }
+'''

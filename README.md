@@ -6,7 +6,7 @@ Pedestrian Detection on Custom Dataset using an Attention Based Transformer Tech
 This is a standalone notebook of the paper "DINO: DETR with Improved DeNoising Anchor Boxes for End-to-End Object Detection".
 
 ## Checkpoints available here:
-# Model Zoo
+
 
 We have put our model checkpoints here:
 - [Model zoo in Google Drive](https://drive.google.com/your-link-here)
